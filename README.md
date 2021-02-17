@@ -27,4 +27,4 @@ BTW, if you´re looking for a Gatsby starter, take a look at this [Gatsby multi-
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romori/)](https://www.linkedin.com/in/diogorodrigues02/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romori/)](https://www.linkedin.com/in/romori/)
