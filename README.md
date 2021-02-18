@@ -42,3 +42,5 @@ Developing React applications <a href="#" alt="React"><img src="https://img.shie
 <a href="#" alt="Shell"><img src="https://img.shields.io/badge/Tools-Bash-black?logo=bash&logoColor=white" /></a>
 <a href="#" alt="Code"><img src="https://img.shields.io/badge/Tools-NodeJs-68A063?logo=node.js&logoColor=white" /></a>
 <a href="#" alt="Editor"><img src="https://img.shields.io/badge/Tools-Vscode-0078d7?logo=visual%20studio%20code&logoColor=white" /></a>
+<a href="#" alt="Tools"><img src="https://img.shields.io/badge/Tools-Flask-black?logo=flask&logoColor=white" /></a>
+<a href="#" alt="Tools"><img src="https://img.shields.io/badge/Tools-Django-092E20?logo=django&logoColor=white" /></a>
