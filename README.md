@@ -44,3 +44,5 @@ Developing React applications <a href="#" alt="React"><img src="https://img.shie
 <a href="#" alt="Editor"><img src="https://img.shields.io/badge/Tools-Vscode-0078d7?logo=visual%20studio%20code&logoColor=white" /></a>
 <a href="#" alt="Tools"><img src="https://img.shields.io/badge/Tools-Flask-black?logo=flask&logoColor=white" /></a>
 <a href="#" alt="Tools"><img src="https://img.shields.io/badge/Tools-Django-092E20?logo=django&logoColor=white" /></a>
+
+[![@robinmori's Holopin board](https://holopin.io/api/user/board?user=robinmori)](https://holopin.io/@robinmori)
