@@ -30,6 +30,8 @@ Developing React applications <a href="#" alt="React"><img src="https://img.shie
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romori/)](https://www.linkedin.com/in/romori/)
 
+[![@robinmori's Holopin board](https://holopin.io/api/user/board?user=robinmori)](https://holopin.io/@robinmori)
+
 ### Technology and Tools 🛠️
 <a href="#" alt="React"><img src="https://img.shields.io/badge/Tool-React-61DBFB?logo=react&logoColor=white" /></a>
 <a href="#" alt="JS"><img src="https://img.shields.io/badge/Code-JavaScript-f0db4f?logo=javascript&logoColor=white" /></a>
@@ -44,5 +46,3 @@ Developing React applications <a href="#" alt="React"><img src="https://img.shie
 <a href="#" alt="Editor"><img src="https://img.shields.io/badge/Tools-Vscode-0078d7?logo=visual%20studio%20code&logoColor=white" /></a>
 <a href="#" alt="Tools"><img src="https://img.shields.io/badge/Tools-Flask-black?logo=flask&logoColor=white" /></a>
 <a href="#" alt="Tools"><img src="https://img.shields.io/badge/Tools-Django-092E20?logo=django&logoColor=white" /></a>
-
-[![@robinmori's Holopin board](https://holopin.io/api/user/board?user=robinmori)](https://holopin.io/@robinmori)
