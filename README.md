@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a hobbyist developer with a background in robotics. I'm based in Stockholm, Sweden.
+I'm a hobbyist developer with a background in robotics/mechatronics. I'm based in Stockholm, Sweden.
 
 <!-- Since 2009 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍 -->
 
